@@ -1,0 +1,28 @@
+{
+  "name": "@mdbootstrap/bootstrap-bullet-list",
+  "version": "1.0.0",
+  "description": "Responsive Bullet list built with the latest Bootstrap 5. Bullet lists are responsive components for displaying a series of content. Many examples and tutorials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iprzybysz/bootstrap-bullet-list.git"
+  },
+  "keywords": [
+    "bullet list",
+    "split",
+    "secondary bullets",
+    "square bullets",
+    "without bullets",
+    "color of bullets",
+    "icons"
+  ],
+  "author": "Igor Przybysz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iprzybysz/bootstrap-bullet-list/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/bullet-list/"
+}
